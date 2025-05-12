@@ -17,28 +17,28 @@ export default function HeroSection() {
       <img
         src="/star1.svg"
         alt="star"
-        className="absolute z-10"
+        className="absolute z-10 twinkle-shake"
         style={{ top: "8%", left: "10%", width: 40, height: 40 }}
         draggable={true}
       />
       <img
         src="/star1.svg"
         alt="star"
-        className="absolute z-10"
+        className="absolute z-10 twinkle-shake"
         style={{ top: "20%", right: "15%", width: 60, height: 60 }}
         draggable={true}
       />
       <img
         src="/star1.svg"
         alt="star"
-        className="absolute z-10"
+        className="absolute z-10 twinkle-shake"
         style={{ bottom: "18%", left: "18%", width: 32, height: 32 }}
         draggable={true}
       />
       <img
         src="/star1.svg"
         alt="star"
-        className="absolute z-10"
+        className="absolute z-10 twinkle-shake"
         style={{ bottom: "10%", right: "8%", width: 50, height: 50 }}
         draggable={true}
       />
